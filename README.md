@@ -17,17 +17,18 @@ Three locations were chosen for sampling. The weather was clear (15–21 °C), w
 
 ---
 
-## ⚙️ Repository Structure
+## 📂 Repository Structure
 
-.
+```bash
+Oceanographic_Measurement_Boat_Trip/
 ├── Code_for_CTD/
-│ └── Code/ # Python scripts for CTD data processing & plotting
+│   └── Code/                     # Python scripts for CTD data processing & plotting
 │
-├── drifters/ # Position, trajectory, and velocity calculations
+├── drifters/                     # Position, trajectory, and velocity calculations
 │
-├── Marine_boat_trip_report.pdf # Full project report (14 pages)
+├── Marine_boat_trip_report.pdf   # Full project report (14 pages)
 │
-└── README.md
+└── README.md                     # Project documentation
 
 
 ---
